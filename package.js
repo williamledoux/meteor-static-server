@@ -8,6 +8,6 @@ Npm.depends({
 
 Package.on_use(function(api) {
   api.use(['webapp', 'routepolicy'], 'server');
-
   api.add_files(['staticserver.js'], 'server'); 
+  api.export('StaticServer', 'server');
 });
