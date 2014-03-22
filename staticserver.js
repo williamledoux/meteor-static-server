@@ -14,6 +14,6 @@ StaticServer = function(){
 			console.log('[staticserver] could not find '+diskPath);
 			return false;
 		}
-	}
+	};
 	return StaticServer;
 }();
