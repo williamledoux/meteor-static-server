@@ -3,6 +3,6 @@
   "description": "Serving content of arbitrary directories",
   "homepage": "https://github.com/williamledoux/meteor-static-server",
   "author": "William Ledoux <william.ledoux@gmail.com>",
-  "version": "0.1",
+  "version": "0.1.0",
   "git": "https://github.com/williamledoux/meteor-static-server.git"
 }

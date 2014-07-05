@@ -1,5 +1,5 @@
-static-server v0.1
-==================
+static-server v0.1.0
+====================
 
 Meteor server-side package for serving content of arbitrary  directories.
 
