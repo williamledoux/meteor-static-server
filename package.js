@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Application file server."
+  summary: "Serving content of arbitrary directories"
 });
 
 Npm.depends({
