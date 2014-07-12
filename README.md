@@ -1,4 +1,4 @@
-static-server v0.1.0
+static-server v0.1.1
 ====================
 
 Meteor server-side package for serving content of arbitrary  directories.
@@ -16,7 +16,7 @@ Installation
 With [Meteorite](https://github.com/oortcloud/meteorite) installed:
 
 ```sh
-$ mrt add bootstrap-3
+$ mrt add static-server
 ```
  
 Usage
