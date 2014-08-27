@@ -1,4 +1,4 @@
-static-server v0.1.1
+static-server v0.1.2
 ====================
 
 Meteor server-side package for serving content of arbitrary  directories.
@@ -13,15 +13,19 @@ Usecases
 Installation
 ------------
 
-With [Meteorite](https://github.com/oortcloud/meteorite) installed:
-
 ```sh
-$ mrt add static-server
+$ meteor add williamledoux:static-server
 ```
  
 Usage
 ------------
 
 ```js
-  StaticServer.add('/TemporaryFiles', '/Tmp/');
+  StaticServer.add('/pics', '/home/username/Pictures/');
 ```
+
+
+Changelog
+------------
+
+ * 0.1.2 : Update to official meteor packaging system
