@@ -22,6 +22,9 @@ Usage
 
 ```js
   StaticServer.add('/pics', '/home/username/Pictures/');
+  StaticServer.relocate('/Mypics', '/home/username/Pictures/');
+  StaticServer.remove('/Mypics');
+
 ```
 
 
