@@ -27,7 +27,9 @@ Usage
 
 Changelog
 ------------
- * 0.2.0 : Use connectr to remove or relocate to a new URL a static served folder
-           Does not use RoutePolicy anymore (seems to work without)
-           Throws Error in case the folder can't be found
- * 0.1.2 : Update to official meteor packaging system
+ * 0.2.0
+ 	* Use connectr to remove or relocate to a new URL a static served folder
+ 	* Does not use RoutePolicy anymore (seems to work without)
+ 	* Throws Error in case the folder can't be found
+ * 0.1.2
+ 	* Update to official meteor packaging system
